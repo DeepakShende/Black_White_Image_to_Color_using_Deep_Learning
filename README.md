@@ -1,6 +1,6 @@
 # 😄 Bring Black & White images to color using Deep Learning 😄
 
-![Demo gif](./resources/demo.gif)
+![Demo gif](./resources/Final.gif)
 
 
 
